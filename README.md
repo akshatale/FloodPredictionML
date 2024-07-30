@@ -9,6 +9,7 @@ Feature Engineering: Creating meaningful features that improve the model's perfo
 Model Training: Using machine learning algorithms to train the model.
 Model Evaluation: Assessing the model's performance using appropriate metrics.
 Prediction: Deploying the model to make real-time predictions.
+
 Usage
 To use this notebook:
 
@@ -18,7 +19,9 @@ Use the trained model to make predictions on new data.
 Requirements
 Python 3.x
 Jupyter Notebook
+
 Relevant Python libraries (specified in the notebook)
+
 Installation
 Clone the repository and navigate to the project directory:
 
@@ -26,6 +29,7 @@ bash
 Copy code
 git clone <repository-url>
 cd <project-directory>
+
 Install the required dependencies:
 
 bash
@@ -40,5 +44,6 @@ Make your changes.
 Commit your changes (git commit -m 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Create a pull request.
+
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
